@@ -37,8 +37,8 @@ let referentes = [{
     },
     {
         id: 5,
-        website: "https://",
-        motivo: "editar"
+        website: "https://ed.team",
+        motivo: "Interruptor modo oscuro, otras funcionalidades interesantes y estética"
     }
 ];
 ```
