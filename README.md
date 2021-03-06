@@ -1,18 +1,19 @@
-# Nombre de MrketPlace
+# PeriTroopers.com.ar
 
-[Market Place] dedicado a la venta de insumos informáticos y de telefonía celular. [editar]
+El sitio está dedicado a la venta de insumos informáticos, especialmente **accesorios y periféricos**.
+Ofrece las mejores marcas de los mismos.
 
 ## Breve descripción de la oferta de productos
 
-[Insumos informáticos y de telefonía celular] [editar]
+Los productos ofrecidos son aquellos conocidos como periféricos (de entrada y de salida), es decir, componentes o partes del equipo de la computadora que permiten introducir datos o información a la misma para que ésta los procese y/u ordene.
 
 
 ## ¿A quiénes va dirigido?
-Consumidor final.
-[Explicar más]
+
+El sitio ofrece productos para el público en general, ya que los accesorios y perisfericos son utilizados en el ambito del hogar como en oficinas. 
 
 ## Referencias
-Todo en la vida requiere de inspiración, ninguna idea surge de la nada. [editar]
+Todo en la vida requiere de inspiración, ninguna idea surge de la nada. 
 
 ```JavaScript
 let referentes = [{
@@ -27,13 +28,13 @@ let referentes = [{
     },
     {
         id: 3,
-        website: "https://",
-        motivo: "editar"
+        website: "https://musimundo.com",
+        motivo: "Funcionalidades y estructura"
     },
     {
         id: 4,
-        website: "https://",
-        motivo: "editar"
+        website: "https://mercadolibre.com.ar",
+        motivo: "Innovación y funcionalidades"
     },
     {
         id: 5,
@@ -43,33 +44,33 @@ let referentes = [{
 ];
 ```
 
-## ¿Quiénes somos?
+## ¿Quiénes somos? 
 Somos **DH-troopers** y nuestro genial equipo está conformado por cuatro integrantes:
 
 ```JavaScript
 let grupo = [{
-nombreCompleto: "Clara Mayorga",
-ocupacion: "Contadora pública",
-cumpleanios: "19 de junio",
-apodo: "Clarita"
+    nombreCompleto: "Clara Mayorga",
+    ocupacion: "Contadora pública",
+    cumpleanios: "19 de junio",
+    apodo: "Clarita"
 },
 {
-nombreCompleto: "Matías Benavide",
-ocupacion: "Desco",
-cumpleanios: "Desco",
-apodo: "Yisus"
+    nombreCompleto: "Matías Benavide",
+    ocupacion: "Estudiante",
+    cumpleanios: "8 de julio",
+    apodo: "Yisus"
 },
 {
-nombreCompleto: "Matías Davila",
-ocupacion: "Desco",
-cumpleanios: "Desco",
-apodo: "Mati"
+    nombreCompleto: "Matías Davila",
+    ocupacion: "Desco",
+    cumpleanios: "Desco",
+    apodo: "Mati"
 },
 {
-nombreCompleto: "Fernanda Ríos",
-ocupacion: "Militar, estudiante y mamá",
-cumpleanios: "27 de mayo",
-apodo: "Pei"
+    nombreCompleto: "Fernanda Ríos",
+    ocupacion: "Militar, estudiante y mamá",
+    cumpleanios: "27 de mayo",
+    apodo: "Pei"
 }];
 ```
 
