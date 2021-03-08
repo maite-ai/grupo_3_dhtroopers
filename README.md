@@ -62,8 +62,8 @@ let grupo = [{
 },
 {
     nombreCompleto: "Matías Davila",
-    ocupacion: "Desco",
-    cumpleanios: "Desco",
+    ocupacion: "Servicio técnico y venta de insumos informáticos",
+    cumpleanios: "12 de junio",
     apodo: "Mati"
 },
 {
