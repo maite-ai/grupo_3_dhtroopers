@@ -1,4 +1,7 @@
 *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Saira Stencil One', cursive;
 }
 
@@ -25,8 +28,8 @@
         .labelTitle{
             font-style:normal;
             font-weight:normal;
-            font-size: 48px;
-            line-height: 76px;
+            font-size: 38px;
+            line-height: 46px;
             display: flex;
             align-items: center;
             text-align: center;
@@ -35,10 +38,9 @@
         }
 
     .formulario{
-    background: rgba(158, 162, 164, 0.03);
     display: flex;
     flex-wrap: wrap;
-    margin: 18px;
+    margin: 15x;
     padding: 10px;
     justify-content: center;
 
@@ -52,7 +54,7 @@
             display: flex;
             flex-flow: column;
             width: 550px;
-            margin: 10px;
+            margin: 8px;
         }
 
         .email {
@@ -78,12 +80,13 @@
             .labelEmail,
             .labelPassword,
             .labelRePassword {
+                font-family: Roboto;
                 font-style:normal;
                 font-weight:bold;
                 font-size: 16px;
                 line-height: 19px;
                 color: #000000;
-                margin-bottom: 5px;
+                margin-bottom: 3px;
             }
 
             .inputName,
@@ -93,15 +96,16 @@
             .inputEmail,
             .inputPassword,
             .inputRePassword {
-               
-                height: 40px;
+                font-family: Roboto;
+                height: 35px;
                 padding-left: 10px;
-                border: 1px solid rgba(3, 3, 3, 0.3);
+                border: 1,3px solid rgba(14, 13, 13, 0.3);
                 border-radius: 8px;
             }
 
         .button{
-            margin-top: 20px;
+            margin-top: 10px;
+            margin-bottom: -10px;
             display: flex;
             flex-direction: row;
             justify-content: center;
@@ -114,16 +118,14 @@
                 font-size: 24px;
                 width: 150px;
                 height: 40px;
-                margin: 10px;
                 text-align: center;
                 background-color: #0C0C0C;
                 color: #06F82C;
-                border-radius: 8px;
-             
+                border-radius: 8px;             
             }
 
 
-@media (min-width: 804px){
+@media (min-width: 780px){
     .registro{
         margin: auto;
      
@@ -137,7 +139,7 @@
     .lastName,
     .age,
     .address {
-        width: 342px;
+        width: 340px;
         margin: 10px;
     }
 
