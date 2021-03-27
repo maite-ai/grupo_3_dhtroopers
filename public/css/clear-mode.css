@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
+* {
+    font-family: Roboto, sans-serif, arial, helvetica;
+}
+
+body {
+    background-color: #fff;
+}
+
+header {
+    background-color: #d3e0dc;
+}
+
+h1 {
+    color: #03506f;
+}
+
+main {
+    background-color: #f8f1f1;
+}
+
+footer {
+    background-color: #d3e0dc;
+}
